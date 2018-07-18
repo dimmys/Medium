@@ -1,9 +1,0 @@
-﻿Execution,Method,insert,update,delete,undelete
-before,trigger.new(),List,List,null,-
-before,trigger.newMap(),null,Map,null,-
-before,trigger.old(),null,List,List,-
-before,trigger.oldMap(),null,Map,Map,-
-after,trigger.new(),List,List,null,List
-after,trigger.newMap(),Map,Map,null,Map
-after,trigger.old(),null,List,List,null
-after,trigger.oldMap(),null,Map,Map,null
